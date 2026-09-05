@@ -1,13 +1,13 @@
 # Human_Stress_Detection-Using_Machine_Learning
 <h3 align="center">This project originally developed in 2023</h3>
 
-**Project OverviewProject Title:** Stress detection using python. 
+**Project OverviewProject Title:--** Stress detection using python. 
 
-**Target Audience:** General public suffering from career or family stress, as well as high-stress professions like the army and police.  
+**Target Audience:-** General public suffering from career or family stress, as well as high-stress professions like the army and police.  
 **Algorithm:** CNN(Convolutional Neural Network) Model Architecture. 
 **Model Performance:** Training Accuracy of 87.34% and Validation Accuracy of 98.45%.
 
-**System Requirements:**
+**System Requirements:-**
 
 Operating System: Windows 10.  
 Processor: i3 (Minimum).  
@@ -17,7 +17,7 @@ Database: SQL 2008.
 Peripherals: High-resolution camera/webcam.  
 Connectivity: 4G Internet Connection.  
 
-**Primary Tech Stack & Software**
+**Primary Tech Stack & Software:-**
 
 Language: Python 3.  
 Web Framework: Flask 1.1.1 / 2.0.1.  
