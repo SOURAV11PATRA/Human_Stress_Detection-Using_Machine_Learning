@@ -14,6 +14,7 @@ Storage: 10 GB Free Space on Hard Disk.
 Database: SQL 2008.  
 Peripherals: High-resolution camera/webcam.  
 Connectivity: 4G Internet Connection.  
+
 **Primary Tech Stack & Software**
 Language: Python 3.  
 Web Framework: Flask 1.1.1 / 2.0.1.  
